@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1417818421 source:c:\users\sadra\documents\codeblocks\app4\fact.c
+	"fact.h"
+
+1417818475 c:\users\sadra\documents\codeblocks\app4\fact.h
+
+1417818314 source:c:\users\sadra\documents\codeblocks\app4\main.c
+	<stdio.h>
+	"fact.h"
+
